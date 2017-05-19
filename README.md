@@ -1,6 +1,4 @@
-"# wechat-editor" 
-
-###简易微网页内容编辑器
+##简易微网页内容编辑器
 - 只有一个js文件
 - 按钮图标引用的是 bootmetro-icons.min.css，也可自己使用图片或其它图标
 - 插入章标题
@@ -8,7 +6,7 @@
 - 剔除所有div及杂项html代码
 - 图片支持直接添加至微信api的永久素材中
 
-###使用方式
+##使用方式
 - 直接在html中<script src="edit.js"></script>
 - 然后写代码
 ```javascript
